@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="https://app.daily.dev/wizardrider"><img src="https://api.daily.dev/devcards/f9b96772d24b4208bf7954d7df043249.png?r=vxb" width="400" alt="Developer Awesome's Dev Card"/></a>
+<a href="https://app.daily.dev/YanYan"><img src="https://api.daily.dev/devcards/f9b96772d24b4208bf7954d7df043249.png?r=y5j" width="400" alt="Developer Awesome's Dev Card"/></a>
 
 <!---
 yanyanwizard/yanyanwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
