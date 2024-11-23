@@ -10,3 +10,4 @@
 yanyanwizard/yanyanwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[YanLinPaiResume-21-11-2024-update.pdf](https://github.com/user-attachments/files/17878445/YanLinPaiResume-21-11-2024-update.pdf)
